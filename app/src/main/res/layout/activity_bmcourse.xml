@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    android:background="@drawable/back1"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="8dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="32dp"
+            android:textStyle="bold"
+            android:textColor="#0039D1"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginBottom="1dp"
+            android:text="বি.এম.(সেক্রেটারিয়াল সায়েন্স ও কম্পিউটার অপারেশন)" />
+        <TextView
+            android:layout_width="340dp"
+            android:layout_height="2dp"
+            android:background="#008000"
+            android:layout_marginBottom="20dp"
+            android:textAlignment="center"
+            android:layout_gravity="center"/>
+        <TextView
+            tools:ignore="MissingPrefix"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:lineSpacingExtra="3dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="15dp"
+            android:text="বাংলাদেশ একটি উন্নয়নশীল দেশ।এই দেশে অর্থনৈতিকভাবে সমৃদ্ধ ও প্রগতিশীল। বিশ্বের যে কোন দেশ বা রাষ্ট্র উন্নয়নের জন্য কারিগরি শিক্ষা ব্যাবস্থার কোন বিকল্প নেই। কারন যে সকল দেশ সমূহ কারিগরি দিক থেকে এগিয়ে যেতে সক্ষম সে দেশ তত বেশি উন্নত। উদাহরণস্বরূপ চীন ও ভারতের নাম উল্লেখ করা যেতে পারে।তাছাড়া যে কোন দেশের উন্নয়নের মূল চালিকা শক্তি হচ্ছে সুষ্ঠ ব্যবস্থাপনা, যা যে কোন দেশের উন্নয়নের ধারা সঠিকভাবে ধরে রাখে। কাজেই সকল প্রকার সরকারী ও বেসরকারী প্রতিষ্ঠানে ব্যবস্থাপনা একটি অত্যাবশ্যকীয় এবং চালিকাশক্তি হিসেবে কাজ করে। তাই বর্তমানে কারিগরি শিক্ষাবোর্ডের অধিনে ২ বছর মেয়াদী BM বা Business Management (ব্যবসায় ব্যবস্থাপনা) কোর্সটি ছাত্র/ছাত্রীদের সেই ক্ষমতাকে জাগ্রত করবে যা দ্বারা একজন ছাত্র/ছাত্রীকে আর পেছনে ফিরে তাকাতে হবে না। এই কোর্সটি বর্তমানে বাংলাদেশের প্রচলিত HSC সমমান হওয়ায়, পাশ করে BBA, CSE এর মত চাহিদাপূর্ন বিষয়ে পড়তে সক্ষম হবে। তাই এই কোর্সকে Pre BBA আখ্যায়িত করা হয়। তাছাড়া যে কোন সাধারণ শিক্ষা ব্যবস্থার মত যে কোন চাকুরী ক্ষেত্রে এসব ছাত্র/ছাত্রী প্রবেশ করতে পারবে। " />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:textSize="18dp"
+            android:text="চাকুরির ক্ষেত্র সমূহ:" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="15dp"
+            android:text="* বাংলাদেশ সরকারের যে কোন মন্ত্রণালয়সহ যে কোন সরকারী ও বেসরকারী প্রতিষ্ঠান।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="15dp"
+            android:text="* সকল সরকারী ও বেসরকারী শিক্ষা প্রতিষ্ঠান।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="15dp"
+            android:text="* সকল সরকারী ও বেসরকারী কারিগরি শিক্ষা প্রতিষ্ঠান।" />
+    </LinearLayout>
+</ScrollView>

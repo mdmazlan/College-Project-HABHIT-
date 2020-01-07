@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    android:background="@drawable/back1"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="8dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="32dp"
+            android:textStyle="bold"
+            android:textColor="#0039D1"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginBottom="1dp"
+            android:text="আমাদের লক্ষ্য ও উদ্দেশ্য" />
+        <TextView
+            android:layout_width="340dp"
+            android:layout_height="2dp"
+            android:background="#008000"
+            android:layout_marginBottom="20dp"
+            android:textAlignment="center"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:textSize="15dp"
+            android:text="* একবিংশ শতাব্দীর চ্যালেঞ্জ মোকাবেলায় শিক্ষার্থীদের প্রযুক্তি শিক্ষায় দক্ষ করে তোলা।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:textSize="15dp"
+            android:text="* তুলনামূলক কম খরচে সুদক্ষ ডিপ্লোমা ইঞ্জিনিয়ার তৈরি করা ।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:textSize="15dp"
+            android:text="* জাতির জন্য দক্ষ কারিগরি জনশক্তি তৈরি করা।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:textSize="15dp"
+            android:text="* দেশের শিক্ষিত যুব সমাজকে বেকারত্বের অভিশাপ থেকে মুক্ত করে দেশের জনশক্তিকে জনসম্পদে পরিণত করা।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:textSize="15dp"
+            android:text="* বিভিন্ন সহ-পাঠ্যক্রমিক কার্যক্রমের মাধ্যমে শিক্ষার অনুকূল পরিবেশ সৃষ্টি করা।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:textSize="15dp"
+            android:text="* দেশে-বিদেশে লাভজনক ও সম্মানজনক কর্মসংস্থানের জন্য সহযোগিতা করা।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:textSize="15dp"
+            android:text="* উচ্চশিক্ষা গ্রহণের উপযোগী শিক্ষার্থী গড়ে তোলা।" />
+    </LinearLayout>
+</ScrollView>

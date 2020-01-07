@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    android:background="@drawable/back1"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="2dp"
+            android:src="@drawable/electricallab" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="29dp"
+            android:textStyle="bold"
+            android:textColor="#0039D1"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginBottom="1dp"
+            android:text="ইলেকট্রিক্যাল টেকনোলজি" />
+        <TextView
+            android:layout_width="340dp"
+            android:layout_height="2dp"
+            android:background="#008000"
+            android:layout_marginBottom="20dp"
+            android:textAlignment="center"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="3dp"
+            android:layout_marginBottom="10dp"
+            android:textSize="18dp"
+            android:text="বর্তমান যুগ বিজ্ঞানের যুগ। বিজ্ঞানের এই যুগে একটি বিস্ময়কর আবিষ্কার হচ্ছে বিদ্যুৎ। ইলেকট্রিসিটি তথা বিদ্যুৎ পরিস্থিতির উন্নতির উপর দেশের উন্নতি নির্ভর করে। আমাদের দেশের বৈদ্যুতিক পরিস্থিতির উন্নতি সাধিত হলে সাথে সাথে অর্থনৈতিক পরিস্থিতির উন্নতি সাধিত হবে। মনে প্রশ্ন জাগতে পারে কিভাবে? সেক্ষেত্রে উত্তর হচ্ছে আমরা যদি নিরবিচ্ছিন্ন(২৪ ঘন্টা) বিদ্যুৎ সরবরাহ সারাদেশে নিশ্চিত করতে সক্ষম হই তাহলে দেশী এবং বিদেশী বিনিয়োগ ব্যাপকভাবে বৃদ্ধি পাবে। বিনিয়োগ বৃদ্ধি মানেই দেশ তথা জাতির উন্নতি সাধিত হওয়া। কাজেই অনতিবিলম্বে সরকার এবং শিল্পপতিদের উচিৎ নিরবিচ্ছিন্ন (২৪ ঘন্টা) বিদ্যুৎ সরবরাহ নিশ্চিত করা। আর বিদ্যুৎ উৎপাদন বাড়াতে পেলে দক্ষ ইলেকট্রিক্যাল ইঞ্জিনিয়ার একান্ত প্রয়োজন।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="আমাদের দেশের ইলেকট্রিক্যাল ইঞ্জিনিয়ারদের কর্মক্ষেত্র নিম্নরূপঃ" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="১. বাংলাদেশ সরকারি ও বেসরকারি পলিটেকনিক ইন্সটিটিউট।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="২. বাংলাদেশ বিদ্যুৎ উন্নয়ন বোর্ড।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="৩. পেট্রোবাংলা।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="৪.পাওয়ার গ্রীড কোম্পানি অফ বাংলাদেশ।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="৫. পানি উন্নয়ন বোর্ড।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="৬. বাংলাদেশ পাটকল কর্পোরেশন।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="৭. পল্লী বিদ্যুৎতায়ন বোর্ড।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="৮. ইলেকট্রিসিটি জেনারেশন কোম্পানি অফ বাংলাদেশ।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="৯. বিভিন্ন ডেভোলপার কোম্পানি।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="6dp"
+            android:textSize="18dp"
+            android:text="১০. বিভিন্ন পৌরসভা।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="১১. ইলেকট্রিসিটি জেনারেশন, ট্রান্সমিশন এবং ডিস্ট্রিবিউশন কোম্পানি।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="১২. বিভিন্ন কারখানা।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="১৩. বাংলাদেশ সেনা ও নৌ বাহিনী দপ্তর।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="১৪. বাংলাদেশ কেমিক্যাল ইন্ডাস্ট্রিজ কর্পোরেশন।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="১৫. বাংলাদেশ পরমানু গবেষণা কেন্দ্র।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="১৬. বাংলাদেশ সরকারি ও বেসরকারি স্কুল, কলেজ এবং বিশ্ববিদ্যালয়।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="১৭. সরকারি ও বেসরকারি শিল্প কারখানা।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="উপরোক্ত প্রতিষ্ঠান গুলি ছাড়াও বিদেশে চাকুরীর যথেষ্ট সুযোগ রয়েছে।" />
+
+
+    </LinearLayout>
+</ScrollView>

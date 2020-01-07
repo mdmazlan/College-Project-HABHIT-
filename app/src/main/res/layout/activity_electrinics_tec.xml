@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    android:background="@drawable/back1"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="2dp"
+            android:src="@drawable/electronics" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:textColor="#0039D1"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginBottom="1dp"
+            android:text="ইলেকট্রনিক্স টেকনোলজি" />
+        <TextView
+            android:layout_width="340dp"
+            android:layout_height="2dp"
+            android:background="#008000"
+            android:layout_marginBottom="20dp"
+            android:textAlignment="center"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:textSize="18dp"
+            android:text="ডিপ্লোমা ইন ইলেকট্রনিক্স ইঞ্জিনিয়ারিং এর গুরুত্বঃ" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:lineSpacingExtra="3dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="বাংলাদেশ একটি উন্নয়নশীল দেশ। আর এদেশের সার্বিক উন্নয়নে কারিগরি শিক্ষার ভূমিকা অনেক।  সভ্য ও সমৃদ্ধ জাতি গঠনে এ শিক্ষার বিকল্প নেই। তাছাড়া আমাদের উন্নয়নশীল এই দেশকে প্রযুক্তি নির্ভর এবং সরকার ঘোষিত ডিজিটাল বাংলাদেশ গড়ার লক্ষে ডিপ্লোমা ইন ইঞ্জিনিয়ারিং ডিগ্রি মূল ভূমিকা পালন করে। কারণ একজন ডিপ্লোমা ইলেকট্রনিক্স ইঞ্জিনিয়ার দেশের ২য় শ্রেণীর কর্মকর্তা হিসেবে নিয়জিত থাকে এবং মাঠ পর্যায়ে তদারকি করে থাকেন। এক্ষেত্রে ৪ বছর মেয়াদি ডিপ্লোমা ইন ইলেকট্রনিক্স ইঞ্জিনিয়ারিং কোর্স সম্পন্ন করেই একজন ব্যক্তি অর্থনৈতিক ক্ষেত্রে স্বাবলম্বী হতে পারেন ।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="18dp"
+            android:text="এ টেকনোলজির চাকুরীর ক্ষেত্রসমুহ নিরুপনঃ" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="19dp"
+            android:text="(ক) সরকারী চাকুরীঃ" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="16dp"
+            android:text="১. বিদ্যুৎ উন্নয়ন বোর্ড (পি.ডি.বি)" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="16dp"
+            android:text="২. পানি উন্নয়ন বোর্ড (পাউবো)" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="16dp"
+            android:text="৩. বাংলাদেশ রেলওয়ে" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="16dp"
+            android:text="৪. ওয়াসা" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="16dp"
+            android:text="৫. শিক্ষা অধিদপ্তর" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="16dp"
+            android:text="৬. বিভিন্ন পৌরসভা ও সিটি কর্পোরেশন " />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="16dp"
+            android:text="৭. বাংলাদেশের বিভিন্ন মন্ত্রণালয়" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="16dp"
+            android:text="৮. বাংলাদেশ প্রতিরক্ষা মন্ত্রণালয়" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="16dp"
+            android:text="৯. স্বাস্থ্য ও সেবা খাত" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="16dp"
+            android:text=" ১০. বাংলাদেশ পরমাণু গবেষণা কেন্দ্র" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="16dp"
+            android:text=" ১১. সরকারী পলিটেকনিক ইন্সটিটিউট " />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="16dp"
+            android:text="১২. এছাড়াও ভূ-উপগ্রহ কেন্দ্র, টেলিফোন, টেলিগ্রাফ, ফ্যাক্স, টেলিভিশন, কম্পিউটার নেটওয়ার্ক, ইন্টারনেট ইত্যাদির ক্ষেত্রে চাকুরীর সুবিধা রয়েছে।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:lineSpacingExtra="3dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="19dp"
+            android:text="(খ) দেশের বিভিন্ন বেসরকারী শিল্প প্রতিষ্ঠান এবং এন.জি.ও গুলোতে ডিপ্লোমা ইন ইলেকট্রনিক্স ইঞ্জিনিয়ারের কাজের সুবিধা রয়েছে।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:lineSpacingExtra="3dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="19dp"
+            android:text="(গ) দেশের বাইরের মধ্যপ্রাচ্য ও ইউরোপসহ বিশ্বের অনেক দেশেই ইলেকট্রনিক্স ইঞ্জিনিয়ারের কর্মসংস্থানের ব্যাপক সুযোগ রয়েছে।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:lineSpacingExtra="3dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="19dp"
+            android:text="(ঘ) এছাড়া ডিপ্লোমা ইন ইলেকট্রনিক্স ইঞ্জিনিয়ারিং কোর্স সম্পন্ন করার পর চাকুরীর পাশাপাশি যে কেউ দেশ ও দেশের বিভিন্ন বিশ্ববিদ্যালয়গুলো থেকে উচ্চ শিক্ষা গ্রহন করতে পারেন। " />
+
+
+    </LinearLayout>
+</ScrollView>

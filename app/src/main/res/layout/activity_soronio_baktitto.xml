@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    android:background="@drawable/back1"
+    android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="8dp"
+                android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/txtsoronio_baktitto_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35dp"
+                android:textStyle="bold"
+                android:textColor="#123980"
+                android:layout_gravity="center"
+                android:textAlignment="center"
+                android:layout_marginBottom="1dp"
+                android:text="স্মরণীয় ব্যক্তিত্ব" />
+                <TextView
+                    android:id="@+id/txt_1_line"
+                    android:layout_width="340dp"
+                    android:layout_height="2dp"
+                    android:background="#008000"
+                    android:layout_marginBottom="10dp"
+                    android:textAlignment="center"
+                    android:layout_gravity="center"/>
+                <ImageView
+                    android:id="@+id/image1"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/haji" />
+                <TextView
+                    android:id="@+id/txt_21_line"
+                    android:layout_width="90dp"
+                    android:textColor="#000"
+                    android:lineSpacingExtra="3dp"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:textSize="18dp"
+                    android:text="1940-1996"/>
+                <TextView
+                    android:id="@+id/txt_2_line"
+                    android:layout_width="match_parent"
+                    android:textColor="#000"
+                    android:lineSpacingExtra="3dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:textSize="18dp"
+                    android:text="ক্ষণস্থায়ী জীবন নিয়ে মানুষ জন্ম গ্রহণ করে এবং এক সময় পৃথিবী থেকে বিদায় নিয়ে চলে যায়। এই ক্ষণভঙ্গুর জীবনে কিছু মানুষ তার একান্ত নিষ্ঠা, আত্নত্যাগ ও গভীর মমত্ববোধ নিয়ে অন্যের জন্য কিছু করার চেষ্টা করে ; এঁদের সংখ্যা নগণ্য এবং এরা শ্রদ্ধার পাত্র। মরহুম আবুল হোসেন এমনই একজন বিরল ব্যক্তিত্ব। তিনি ১৯৪০ সালের ৩০ শে নভেম্বর, বাংলা ১৫ ই কার্তিক, ১৩৮৭ বংগাব্দে  টাংগাইল পৌর এলাকার অন্তর্গত পার-দিঘুলীয়া গ্রামে জন্ম গ্রহণ করেন।" />
+            <TextView
+                   android:id="@+id/txt_3_line"
+                   android:layout_width="match_parent"
+                   android:textColor="#000"
+                   android:lineSpacingExtra="3dp"
+                   android:layout_height="wrap_content"
+                   android:layout_marginBottom="5dp"
+                   android:textSize="18dp"
+                   android:text="মোঃ আবুল হোসেন পারিবারিক অস্বচ্ছলতার কারনে বেশিদূর লেখাপড়া করতে পারেননি। জ্ঞান লাভের অদম্য স্পৃহা নিয়ে কঠোর জীবন সংগ্রামের মধ্যেও তিনি সাধ্যমত বিদ্যাচর্চা চালিয়ে যেতে থাকেন।সামাজিক মূল্যবোধের অবক্ষয়, কুশিক্ষা ও কুঅভ্যাস  থেকেও তরুণ সমাজকে রক্ষা কল্পে সমষ্টিগত প্রচেষ্টার মাধ্যমে সামাজিক উন্নয়নে জনাব আবুল হোসেনের অবদান অপরিসীম। নিরক্ষরতার নিদারুণ অভিশাপ অ অজ্ঞানতার অন্ধকার থেকে ভবিষ্যৎ বংশধরদের আলোর পথে নিয়ে আসার মানসে ব্যক্তিগত উদ্যোগ ও ব্যয়ে অনেক শিক্ষাপ্রতিষ্ঠান স্থাপন করেন।" />
+
+                <TextView
+                    android:id="@+id/txt_4_line"
+                    android:layout_width="match_parent"
+                    android:textColor="#000"
+                    android:lineSpacingExtra="3dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:textSize="18dp"
+                    android:text="মরহুম আলহাজ আবুল হোসেন বাংলাদেশের স্বাধীনতা সংগ্রামের একজন সৈনিক ছিলেন।
+নানাভাবে দেশের অভ্যন্তরে থেকে যুদ্ধরত মুক্তিযোদ্ধাদের তিনি সাহায্য ও সহযোগিতা করেন। টাংগাইলের দরিদ্র এবং বিপদগ্রস্ত মানুষের মাঝে সাহায্যের হাত ব্যাপকভাবে বাড়িয়ে দেন। সমাজের সকল প্রকার সেবা মূলক কর্ম তৎপরতায় এত বেশি সাহায্য-সহযোগীতা করেন যে, টাংগাইলবাসী তাকে দানবীর বলে সম্বোধন করতেন। তার কাজের মূল্যায়ন করে বাংলা ১৩৯৬ বংগাব্দে বাংলাদেশ শিল্প, কৃষি সংসদ তাকে 'জ্ঞান তাপস ডঃ মুহাম্মদ শহীদুল্লাহ স্বর্ণ পদক' প্রদান করেন। " />
+                <TextView
+                    android:id="@+id/txt_5_line"
+                    android:layout_width="match_parent"
+                    android:textColor="#000"
+                    android:lineSpacingExtra="3dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:textSize="18dp"
+                    android:text="মরহুম আলহাজ আবুল হোসেন পেশায় একজন দক্ষ, সৎ এবং প্রতিষ্ঠিত ব্যবসায়ী ছিলেন।
+১৯৯৬ ইং সনের ১০ সেপ্টেম্বর এই মহান ব্যক্তি মাত্র ৫৬ বৎসর বয়সে হৃদযন্ত্রের ক্রিয়া বন্ধ হয়ে ইন্তেকাল করেন। আজ আমাদের মাঝে সেই মহৎ, জনদরদী, বিদ্যোৎসাহী মানুষটি আর নেই; রেখে গেছেন তার সুকীর্তি সমূহ। সেই সাথে রেখে গেছেন তাঁর প্রদর্শিত পথে চলার মত সুযোগ্য আটজন সন্তান। তারই নিদর্শন স্বরুপ আজ সকলের সেবার উদ্দেশ্যে টাংগাইলের প্রাণকেন্দ্রে দাঁড়িয়ে আছে HABHIT। HABHIT আজ গুটি গুটি পায়ে সফলভাবে ১৫ বৎসরের পরিক্রমায় বাংলাদেশের বিভিন্ন জেলায় কারিগরি শিক্ষা বিস্তারে অগ্রণী ভূমিকা পালন করছে।" />
+
+        </LinearLayout>
+</ScrollView>

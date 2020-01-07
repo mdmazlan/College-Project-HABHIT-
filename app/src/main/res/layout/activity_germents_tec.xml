@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    android:background="@drawable/back1"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginBottom="2dp"
+            android:src="@drawable/textilelab"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="32dp"
+            android:textStyle="bold"
+            android:textColor="#0039D1"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginBottom="1dp"
+            android:text="গার্মেন্টস ডিজাইন" />
+        <TextView
+            android:layout_width="340dp"
+            android:layout_height="2dp"
+            android:background="#008000"
+            android:layout_marginBottom="20dp"
+            android:textAlignment="center"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:lineSpacingExtra="3dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:textSize="18dp"
+            android:text="বাংলাদেশের অর্থনীতিতে বিরাট অবদান রয়েছে গার্মেন্টস শিল্পের।বর্তমানে বাংলাদেশের মোট রপ্তানী আয়ের ৭৮% রেডিমেইড গার্মেন্টস রপ্তানীর মাধ্যমে। বাংলাদেশে প্রায় ৫হাজারের বেশি গার্মেন্টস ইন্ডাস্ট্রি রয়েছে এবং রপ্তানি হচ্ছে শার্ট,প্যান্ট, গেঞ্জি, ট্রাউজার, জ্যাকেট ইত্যাদি । এই সব পণ্য তৈরী করার জন্য প্রয়োজন দক্ষ প্রকৌশলী। বর্তমানে গার্মেন্টস শিল্পের জন্য দক্ষ প্রকৌশলীর ব্যাপক চাহিদা রয়েছে এবং চাহিদা অনুযায়ী তৈরী হচ্ছে চাকুরীর নতুন নতুন ক্ষেত্র। সেই অনুযায়ী কারিগরি বিষয় গুলোতে সরকার গুরুত্ব দিচ্ছে বেশি বেশি যেমন- টেক্সটাইল, জিডিপিএম ইত্যাদি। কারিগরি শিক্ষাবোর্ডের মাধ্যমে চার বছরে বিষয় ভিত্তিক হাতে কলমে সরাসরি শিক্ষা প্রদান করে বাস্তব ক্ষেত্রে অবদান রাখার জন্য দক্ষ প্রকৌশলী তৈরী করা হচ্ছে। তাই আর দেরী না করে নিজেকে দক্ষ প্রকৌশলী করে বাংলাদেশের রপ্তানি খাতকে আরোও বেগবান করা যায়।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="18dp"
+            android:text="কর্মক্ষেত্রঃ" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="ডিপ্লোমা ইন ইঞ্জিনিয়ারিং শেষ করে গার্মেন্টস এর নিম্নলিখিত বিভাগ গুলোতে সরাসরি চাকুরীর ক্ষেত্র তৈরী হয় । যেমন-" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="* প্যাটার্ন মেকিং" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="* কাটিং" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="* ফিনিশিং" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="* কোয়ালিটি" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="* মার্চেন্ডাইজিং" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="* ক্যাড" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="* সুইং" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="* ওয়ার্ক স্টাডি" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="18dp"
+            android:text="* স্যাম্পল মেকিং" />
+
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    android:background="@drawable/back1"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="8dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txtsoronio_baktitto_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="32dp"
+            android:textStyle="bold"
+            android:textColor="#0039D1"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginBottom="1dp"
+            android:text="আচরণবিধি/ শিক্ষার্থীদের করণীয়" />
+        <TextView
+            android:id="@+id/txt_1_line"
+            android:layout_width="340dp"
+            android:layout_height="2dp"
+            android:background="#008000"
+            android:layout_marginBottom="20dp"
+            android:textAlignment="center"
+            android:layout_gravity="center"/>
+        <TextView
+            android:id="@+id/txt_2_line"
+            android:layout_width="match_parent"
+            android:textColor="#530607"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="3dp"
+            android:textSize="15dp"
+            android:text="১।  ড্রেসঃ" />
+        <TextView
+            android:id="@+id/txt_3_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="15dp"
+            android:text="শিক্ষার্থীদের অবশ্যই প্রতিষ্ঠানের নির্ধারিত ড্রেস কোড অনুসরণ করতে হবে ।তবে কোন বিশেষ কারনে ড্রেস পরে না আসলে গ্রুপ টিচার এর অনুমতি নিয়ে শ্রেণীকক্ষে প্রবেশ করতে হবে । " />
+        <TextView
+            android:id="@+id/txt_4_line"
+            android:layout_width="match_parent"
+            android:textColor="#530607"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="২।  উপস্থিতিঃ" />
+        <TextView
+            android:id="@+id/txt_5_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="প্রতি সেমিস্টারে গড়ে নূন্যতম শতকরা ৮০ ভাগ ক্লাসে উপস্থিত থাকতে হবে ।" />
+        <TextView
+            android:id="@+id/txt_6_line"
+            android:layout_width="match_parent"
+            android:textColor="#530607"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="৩।  ছুটিঃ" />
+        <TextView
+            android:id="@+id/txt_7_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="ছুটির প্রয়োজন হলে গ্রুপ টিচারের মাধ্যমে অধ্যক্ষ বরাবর আবেদন করতে হবে ।বিনা অনুমতিতে ছুটি কাটালে নির্ধারিত হারে জরিমানা প্রদান করতে হবে ।" />
+        <TextView
+            android:id="@+id/txt_8_line"
+            android:layout_width="match_parent"
+            android:textColor="#530607"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="৪।  পরীক্ষাঃ" />
+        <TextView
+            android:id="@+id/txt_9_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="ক্লাস টেস্ট,পর্ব্য-মধ্য পরীক্ষায় অংশ গ্রহন না করলে বিষয় প্রতি নির্ধারিত হারে জরিমানা ধার্য্য হবে ।তবে অসুস্থতা বা অন্য কোন গ্রহনযোগ্য কারণে পরীক্ষা দিতে না পারলে সংশ্লিষ্ট প্রমাণসহ অধ্যক্ষ বরাবর আবেদন করা যাবে ।" />
+        <TextView
+            android:id="@+id/txt_10_line"
+            android:layout_width="match_parent"
+            android:textColor="#530607"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="৫।  বেতনঃ " />
+        <TextView
+            android:id="@+id/txt_11_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="প্রতি সেমিস্টারের শুরুতেই নির্ধারিত তারিখে ভর্তি হতে হবে ।মাসিক বেতন প্রতি মাসের ১২ তারিখের মধ্যে প্রধান করতে হবে ।তবে প্রতিমাসের ১৩ থেকে ২০ তারিখের মধ্যে নির্ধারিত হারে জরিমানা প্রদানপূর্বক বেতন প্রদান করা যাবে ।" />
+        <TextView
+            android:id="@+id/txt_12_line"
+            android:layout_width="match_parent"
+            android:textColor="#530607"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="৬।  শিক্ষা কার্যক্রমঃ " />
+        <TextView
+            android:id="@+id/txt_13_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="রেজিস্ট্রেশন,ফরম ফিলাপ,প্রিন্ট আউটে স্বাক্ষর প্রদান,সিলেবাস,রুটিন,প্রবেশপত্রের বিষয় কোড ও ফালাফল সহ যে কোন তথ্য শিক্ষার্থীরা নিজ দায়িত্বে জেনে নিবে।" />
+        <TextView
+            android:id="@+id/txt_14_line"
+            android:layout_width="match_parent"
+            android:textColor="#530607"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="৭।  সহ-পাঠক্রমিক কার্যক্রমঃ" />
+        <TextView
+            android:id="@+id/txt_15_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="শিক্ষার্থীদের প্রতিষ্ঠানের সহ-পাঠক্রমিক কার্যক্রমে অংশগ্রহণ বাধ্যতামূলক।" />
+        <TextView
+            android:id="@+id/txt_16_line"
+            android:layout_width="match_parent"
+            android:textColor="#530607"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="৮। মোবাইল ফোনঃ" />
+        <TextView
+            android:id="@+id/txt_17_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="ক্লাসে এবং পরীক্ষার সময় শিক্ষার্থীদের মোবাইল ফোন ব্যবহার সম্পূর্ণ নিষিদ্ধ ।" />
+        <TextView
+            android:id="@+id/txt_18_line"
+            android:layout_width="match_parent"
+            android:textColor="#530607"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="৯।  অভিভাবকের সাথে যোগাযোগঃ " />
+        <TextView
+            android:id="@+id/txt_19_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="যে কোন গুরুত্বপূর্ণ তথ্য অভিভাবককে সরাসরি জানানো হয় সেজন্য অভিভাবকের ফোন নম্বর পরিবর্তন হলে তা অবশ্যই গ্রুপ টিচারকে অবহিত করতে হবে।" />
+        <TextView
+            android:id="@+id/txt_20_line"
+            android:layout_width="match_parent"
+            android:textColor="#530607"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="১০।  রাজনীতি,ধূমপান ও উগ্র মতবাদ সংক্রান্তঃ" />
+        <TextView
+            android:id="@+id/txt_21_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="প্রতিস্থানে রাজনীতিচর্চা, ধূমপান ও উগ্র মতবাদ প্রচার সম্পূর্ণরূপে নিষিদ্ধ।" />
+
+
+    </LinearLayout>
+</ScrollView>

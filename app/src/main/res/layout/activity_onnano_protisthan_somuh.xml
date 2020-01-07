@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="2dp"
+    android:background="@drawable/back1"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txtsoronio_baktitto_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="32dp"
+            android:textStyle="bold"
+            android:textColor="#0039D1"
+            android:layout_gravity="bottom"
+            android:textAlignment="center"
+            android:layout_marginBottom="1dp"
+            android:text="অন্যান্য প্রতিষ্ঠান সমূহ" />
+        <TextView
+            android:id="@+id/txt_First_line"
+            android:layout_width="340dp"
+            android:layout_height="2dp"
+            android:background="#008000"
+            android:layout_marginBottom="20dp"
+            android:textAlignment="center"
+            android:layout_gravity="center"/>
+        <TextView
+            android:id="@+id/txt_2nd_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_marginBottom="5dp"
+            android:textSize="20dp"
+            android:text="1." />
+        <TextView
+            android:id="@+id/txt_Third_line"
+            android:layout_width="match_parent"
+            android:layout_height="16dp"
+            android:textColor="#530607"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textSize="13dp"
+            android:text=" হাজী আবুল হোসেন ইন্সটিটিউট অব টেকনোলজি (HABHIT)
+" />
+        <TextView
+            android:id="@+id/txt_4th_line"
+            android:layout_width="wrap_content"
+            android:textColor="#000"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="10dp"
+            android:text="(জাতীয় বিশ্ববিদ্যালয় কোড:৫৩৩১)" />
+        <TextView
+            android:id="@+id/txt_5th_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginBottom="5dp"
+            android:textSize="13dp"
+            android:text="হাবিবুর রহমান প্লাজা,ময়মনসিংহ রোড,টাঙ্গাইল-১৯০০." />
+        <TextView
+            android:id="@+id/txt_6th_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textIsSelectable="true"
+            android:layout_marginBottom="5dp"
+            android:textSize="13dp"
+            android:text="মোবাইল : ০১৭৩৩-৭২৭২৭৭,কল সেন্টার : ০১৮১৯৯৭৮৭৮৭" />
+        <TextView
+            android:id="@+id/txt_7th_line"
+            android:layout_width="130dp"
+            android:textColor="#ffffff"
+            android:layout_height="wrap_content"
+            android:background="#5924B7"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:layout_marginBottom="5dp"
+            android:textAlignment="center"
+            android:textSize="13dp"
+            android:text="পরিচালিত কোর্স সমূহ" />
+
+        <TextView
+            android:id="@+id/txt_8th_line"
+            android:layout_width="300dp"
+            android:textColor="#000"
+
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="13dp"
+            android:text="৪ বৎসর মেয়াদী অনার্স ও বি.এস সি ইঞ্জিঃ কোর্সঃ" />
+        <TextView
+            android:id="@+id/txt_9_line"
+            android:layout_width="100dp"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="5dp"
+            android:text="* BBA   * CSE"
+            android:textColor="#000"
+            android:textSize="15dp" />
+        <TextView
+            android:id="@+id/txt_10_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_marginBottom="5dp"
+            android:textSize="20dp"
+            android:text="2." />
+        <TextView
+            android:id="@+id/txt_11_line"
+            android:layout_width="match_parent"
+            android:layout_height="16dp"
+            android:textColor="#530607"
+            android:layout_marginBottom="5dp"
+
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textSize="13dp"
+            android:text="টাংগাইল ইন্সটিটিউট অব সায়েন্স এ্যান্ড টেকনোলজি (TIST)" />
+        <TextView
+            android:id="@+id/txt_12_line"
+            android:layout_width="wrap_content"
+            android:textColor="#000"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="10dp"
+            android:text="(প্রতিষ্ঠান কোডঃ ৫৪১৩১)" />
+        <TextView
+            android:id="@+id/txt_13_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginBottom="5dp"
+            android:textSize="13dp"
+            android:text="কুমুদিনী কলেজ রোড(দক্ষিণ পাশে), টাংগাইল-১৯০০" />
+        <TextView
+            android:id="@+id/txt_14_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textIsSelectable="true"
+            android:layout_marginBottom="5dp"
+            android:textSize="13dp"
+            android:text="মোবাইল : ০১৮৫৫-৬৯৩৬৬২" />
+        <TextView
+            android:id="@+id/txt_15_line"
+            android:layout_width="130dp"
+            android:textColor="#ffffff"
+            android:layout_height="wrap_content"
+            android:background="#5924B7"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:layout_marginBottom="5dp"
+            android:textAlignment="center"
+            android:textSize="13dp"
+            android:text="পরিচালিত কোর্স সমূহ" />
+        <TextView
+            android:id="@+id/txt_16_line"
+            android:layout_width="300dp"
+            android:textColor="#000"
+
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="13dp"
+            android:text="৪ বৎসর মেয়াদী অনার্স ও বি.এস সি ইঞ্জিঃ কোর্সঃ" />
+        <TextView
+            android:id="@+id/txt_17_line"
+            android:layout_width="250dp"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="* সিভিল     * ইলেকট্রিক্যাল "
+            android:textColor="#000"
+            android:textSize="15dp" />
+        <TextView
+            android:id="@+id/txt_18_line"
+            android:layout_width="250dp"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="5dp"
+            android:text="* টেক্সটাইল  *গার্মেন্টস ডিজাইন "
+            android:textColor="#000"
+            android:textSize="15dp" />
+
+            <TextView
+            android:id="@+id/txt_19_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_marginBottom="5dp"
+            android:textSize="20dp"
+            android:text="3." />
+        <TextView
+            android:id="@+id/txt_20_line"
+            android:layout_width="match_parent"
+            android:layout_height="33dp"
+            android:textColor="#530607"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textSize="13dp"
+            android:text="কুষ্টিয়া হাজী আবুল হোসেন ইন্সটিটিউট অব টেকনোলজি
+            (K-HABHIT)" />
+        <TextView
+            android:id="@+id/txt_21_line"
+            android:layout_width="wrap_content"
+            android:textColor="#000"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="10dp"
+            android:text="(কারিগরি শিক্ষাবোর্ড কোড ২৭০৭৯; জাতীয় বিশ্ববিদ্যালয় কোড:১০৩৬)" />
+        <TextView
+            android:id="@+id/txt_22_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginBottom="5dp"
+            android:textSize="13dp"
+            android:text="আলফা মোড়, কুষ্টিয়া" />
+        <TextView
+            android:id="@+id/txt_23_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textIsSelectable="true"
+            android:layout_marginBottom="5dp"
+            android:textSize="13dp"
+            android:text="মোবাইল- ০১৭৩৭-৬৭৯৭৯৭, ০১৭২৭-০০১৬৯০,
+             কল সেন্টার-১১৮১৯-৯৭৮৭৮৭" />
+        <TextView
+            android:id="@+id/txt_24_line"
+            android:layout_width="130dp"
+            android:textColor="#ffffff"
+            android:layout_height="wrap_content"
+            android:background="#5924B7"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:layout_marginBottom="5dp"
+            android:textAlignment="center"
+            android:textSize="13dp"
+            android:text="পরিচালিত কোর্স সমূহ" />
+        <TextView
+            android:id="@+id/txt_25_line"
+            android:layout_width="300dp"
+            android:textColor="#000"
+
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="13dp"
+            android:text="৪ বৎসর মেয়াদী ডিপ্লোমা ইন ইঞ্জি: কোর্স:" />
+        <TextView
+            android:id="@+id/txt_26th_line"
+            android:layout_width="350dp"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="5dp"
+            android:text="* সিভিল  * ইলেকট্রিক্যাল  * ইলেকট্রনিক্স"
+            android:textColor="#000"
+            android:textSize="15dp" />
+        <TextView
+            android:id="@+id/txt_26_line"
+            android:layout_width="300dp"
+            android:textColor="#000"
+
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="13dp"
+            android:text="৪ বৎসর মেয়াদী অনার্স ও বি.এসসি ইঞ্জি: কোর্স:" />
+        <TextView
+            android:id="@+id/txt_27_line"
+            android:layout_width="100dp"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="5dp"
+            android:text="* BBA   * CSE"
+            android:textColor="#000"
+            android:textSize="15dp" />
+        <TextView
+            android:id="@+id/txt_28_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_marginBottom="5dp"
+            android:textSize="20dp"
+            android:text="4." />
+        <TextView
+            android:id="@+id/txt_29_line"
+            android:layout_width="match_parent"
+            android:layout_height="33dp"
+            android:textColor="#530607"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textSize="13dp"
+            android:text="কুষ্টিয়া ইন্সটিটিউট অব সায়েন্স এ্যান্ড টেকনোলজি (KIST)" />
+        <TextView
+            android:id="@+id/txt_30_line"
+            android:layout_width="wrap_content"
+            android:textColor="#000"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="10dp"
+            android:text="(প্রতিষ্ঠান কোড ২৭০৭০)" />
+        <TextView
+            android:id="@+id/txt_31_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginBottom="5dp"
+            android:textSize="13dp"
+            android:text="এন. এস. রোড, কুষ্টিয়া" />
+        <TextView
+            android:id="@+id/txt_32_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textIsSelectable="true"
+            android:layout_marginBottom="5dp"
+            android:textSize="13dp"
+            android:text="মোমোবাইল ০১৭৩৭-৬৭৯৭৯৭,০১৭২৭-০০১৬৯০,কল সেন্টার-১১৮১৯-৯৭৮৭৮৭" />
+        <TextView
+            android:id="@+id/txt_33_line"
+            android:layout_width="130dp"
+            android:textColor="#ffffff"
+            android:layout_height="wrap_content"
+            android:background="#5924B7"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:layout_marginBottom="5dp"
+            android:textAlignment="center"
+            android:textSize="13dp"
+            android:text="পরিচালিত কোর্স সমূহ" />
+
+        <TextView
+            android:id="@+id/txt_35_line"
+            android:layout_width="350dp"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="5dp"
+            android:text="* সিভিল  * ইলেকট্রিক্যাল  * টেক্সটাইল"
+            android:textColor="#000"
+            android:textSize="15dp" />
+        <TextView
+            android:id="@+id/txt_36_line"
+            android:layout_width="300dp"
+            android:textColor="#000"
+
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="13dp"
+            android:text="৪ বৎসর মেয়াদী অনার্স ও বি.এসসি ইঞ্জি: কোর্স:" />
+
+        <TextView
+            android:id="@+id/txt_38_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_marginBottom="5dp"
+            android:textSize="20dp"
+            android:text="5." />
+        <TextView
+            android:id="@+id/txt_39_line"
+            android:layout_width="match_parent"
+            android:layout_height="33dp"
+            android:textColor="#530607"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textSize="13dp"
+            android:text="রাজশাহী হাজী আবুল হোসেন ইন্সটিটিউট অব টেকনোলজি
+            (R-HABHIT)" />
+        <TextView
+            android:id="@+id/txt_40_line"
+            android:layout_width="wrap_content"
+            android:textColor="#000"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="10dp"
+            android:text="(প্রতিষ্ঠান কোড ২৩১৮৯)" />
+        <TextView
+            android:id="@+id/txt_41_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginBottom="5dp"
+            android:textSize="13dp"
+            android:text="ববিমান বন্দর রোড, নওদা পাড়া, রাজশাহী" />
+        <TextView
+            android:id="@+id/txt_42_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textIsSelectable="true"
+            android:layout_marginBottom="5dp"
+            android:textSize="13dp"
+            android:text="মোবাইল ০১৭৪৩-৯২৭৮৫৮,০১৭২৭-০০১৬৯১,কল সেন্টার-০৭২১-৭৬০৮২৩" />
+        <TextView
+            android:id="@+id/txt_43_line"
+            android:layout_width="130dp"
+            android:textColor="#ffffff"
+            android:layout_height="wrap_content"
+            android:background="#5924B7"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:layout_marginBottom="5dp"
+            android:textAlignment="center"
+            android:textSize="13dp"
+            android:text="পরিচালিত কোর্স সমূহ" />
+        <TextView
+            android:id="@+id/txt_44_line"
+            android:layout_width="300dp"
+            android:textColor="#000"
+
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="13dp"
+            android:text="৪ বৎসর মেয়াদী ডিপ্লোমা ইন ইঞ্জি: কোর্স:" />
+        <TextView
+            android:id="@+id/txt_45_line"
+            android:layout_width="350dp"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="5dp"
+            android:text="* সিভিল  * ইলেকট্রিক্যাল  * টেক্সটাইল * গার্মেন্টস ডিজাইন "
+            android:textColor="#000"
+            android:textSize="15dp" />
+
+
+        <TextView
+            android:id="@+id/txt_48_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_marginBottom="5dp"
+            android:textSize="20dp"
+            android:text="6." />
+        <TextView
+            android:id="@+id/txt_49_line"
+            android:layout_width="match_parent"
+            android:layout_height="33dp"
+            android:textColor="#530607"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textSize="13dp"
+            android:text="রাজশাহী হাজী আবুল হোসেন ইন্সটিটিউট অব মেডিকেল টেকনোলজি (R-HAIMT)" />
+        <TextView
+            android:id="@+id/txt_50_line"
+            android:layout_width="wrap_content"
+            android:textColor="#000"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="10dp"
+            android:text="(প্রতিষ্ঠান কোড ২৩২৪৫)" />
+        <TextView
+            android:id="@+id/txt_51_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginBottom="5dp"
+            android:textSize="13dp"
+            android:text="বিমান বন্দর রোড, নওদা পাড়া, রাজশাহী" />
+        <TextView
+            android:id="@+id/txt_52_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textIsSelectable="true"
+            android:layout_marginBottom="5dp"
+            android:textSize="13dp"
+            android:text="মোবাইল ০১৭৪৩-৯২৭৮৫৮,০১৭২৭-০০১৬৯১,কল সেন্টার-০৭২১-৭৬০৮২৩" />
+        <TextView
+            android:id="@+id/txt_53_line"
+            android:layout_width="130dp"
+            android:textColor="#ffffff"
+            android:layout_height="wrap_content"
+            android:background="#5924B7"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:layout_marginBottom="5dp"
+            android:textAlignment="center"
+            android:textSize="13dp"
+            android:text="পরিচালিত কোর্স সমূহ" />
+        <TextView
+            android:id="@+id/txt_54_line"
+            android:layout_width="300dp"
+            android:textColor="#000"
+
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="13dp"
+            android:text="৩ বৎসর মেয়াদী ডিপ্লোমা ইন মেডিকেল ইঞ্জি: কোর্স:" />
+        <TextView
+            android:id="@+id/txt_55_line"
+            android:layout_width="350dp"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="5dp"
+            android:text="* ডেন্টাল  * প্যাথলজি "
+            android:textColor="#000"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/txt_58_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_marginBottom="5dp"
+            android:textSize="20dp"
+            android:text="7." />
+        <TextView
+            android:id="@+id/txt_59_line"
+            android:layout_width="match_parent"
+            android:layout_height="33dp"
+            android:textColor="#530607"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textSize="13dp"
+            android:text="রংপুর হাজী আবুল হোসেন ইন্সটিটিউট অব টেকনোলজি (RANGPUR-HABHIT)" />
+        <TextView
+            android:id="@+id/txt_60_line"
+            android:layout_width="wrap_content"
+            android:textColor="#000"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="10dp"
+            android:text="(প্রতিষ্ঠান কোড: ....)" />
+        <TextView
+            android:id="@+id/txt_61_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginBottom="5dp"
+            android:textSize="13dp"
+            android:text="বেসিক রোড, সি ও বাজার, রংপুর" />
+        <TextView
+            android:id="@+id/txt_62_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textIsSelectable="true"
+            android:layout_marginBottom="5dp"
+            android:textSize="13dp"
+            android:text="মোমোবাইল ০১৭৩৩-৭২৭২৭৭,০১৭৪০-১৭৪৭৪৭,কল সেন্টার-০১৮১৯-৯৭৮৭৮৭" />
+        <TextView
+            android:id="@+id/txt_63_line"
+            android:layout_width="130dp"
+            android:textColor="#ffffff"
+            android:layout_height="wrap_content"
+            android:background="#5924B7"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:layout_marginBottom="5dp"
+            android:textAlignment="center"
+            android:textSize="13dp"
+            android:text="পরিচালিত কোর্স সমূহ" />
+        <TextView
+            android:id="@+id/txt_64_line"
+            android:layout_width="300dp"
+            android:textColor="#000"
+
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="13dp"
+            android:text="৪ বৎসর মেয়াদী ডিপ্লোমা ইন ইঞ্জি: কোর্স:" />
+        <TextView
+            android:id="@+id/txt_65_line"
+            android:layout_width="350dp"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="5dp"
+            android:text="* সিভিল  * ইলেকট্রিক্যাল  * ইলেকট্রনিক্স  * মেকানিক্যাল  "
+            android:textColor="#000"
+            android:textSize="15dp" />
+
+
+        <TextView
+            android:id="@+id/txt_67_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_marginBottom="5dp"
+            android:textSize="20dp"
+            android:text="8." />
+        <TextView
+            android:id="@+id/txt_68_line"
+            android:layout_width="match_parent"
+            android:layout_height="33dp"
+            android:textColor="#530607"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textSize="13dp"
+            android:text="টাংগাইল কলেজ" />
+        <TextView
+            android:id="@+id/txt_69_line"
+            android:layout_width="wrap_content"
+            android:textColor="#000"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="10dp"
+            android:text="(কলেজ কোড ৪৫৩০ ;EIIN : 136405)" />
+        <TextView
+            android:id="@+id/txt_70_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginBottom="5dp"
+            android:textSize="13dp"
+            android:text="কালিবাড়ী রোড, টাংগাইল" />
+        <TextView
+            android:id="@+id/txt_71_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textIsSelectable="true"
+            android:layout_marginBottom="5dp"
+            android:textSize="13dp"
+            android:text="মোবাইল ০১৬২৪- ৮৭৬৭২৭, ০১৭৩৩-৭২৭২৭৭,০১৮১৯-৯৭৮৭৮৭" />
+        <TextView
+            android:id="@+id/txt_72_line"
+            android:layout_width="130dp"
+            android:textColor="#ffffff"
+            android:layout_height="wrap_content"
+            android:background="#5924B7"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:layout_marginBottom="5dp"
+            android:textAlignment="center"
+            android:textSize="13dp"
+            android:text="পরিচালিত কোর্স সমূহ" />
+        <TextView
+            android:id="@+id/txt_74_line"
+            android:layout_width="350dp"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="5dp"
+            android:text="* বিজ্ঞান    * ব্যবসায় শিক্ষা  * মানবিক"
+            android:textColor="#000"
+            android:textSize="15dp" />
+
+
+
+    </LinearLayout>
+</ScrollView>

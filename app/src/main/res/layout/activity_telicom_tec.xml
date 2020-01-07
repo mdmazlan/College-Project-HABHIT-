@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    android:background="@drawable/back1"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/image1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginBottom="2dp"
+            android:src="@drawable/telicomlab" />
+
+        <TextView
+            android:id="@+id/txtsoronio_baktitto_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="31dp"
+            android:textStyle="bold"
+            android:textColor="#0039D1"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginBottom="17dp"
+            android:text="টেলিকমিউনিকেশন টেকনোলজি" />
+        <TextView
+            android:id="@+id/txt_1_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:lineSpacingExtra="3dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:textSize="18dp"
+            android:text="বর্তমান বিশ্ব তথ্য প্রযুক্তির যুগ। তাই টেলিকমিউনিকেশন শিল্প ব্যাপক প্রসার লাভ করছে। বাস্তবক্ষেত্রে টেলিকমিউনিকেশন এর ব্যবহার অনেক। যানবাহন, ব্যবসা-বাণিজ্য, চিকিৎসা ছাড়াও দৈনন্দিন জীবনের প্রায় সকল ক্ষেত্রেই টেলিকমিউনিকেশনের ব্যাপক ব্যাবহার রয়েছে। বাংলাদেশের প্রেক্ষাপটে টেলিকমিউনিকেশন শিল্পের অবস্থান দ্বিতীয় বৃহত্তম। বাংলাদেশের বিভিন্ন মোবাইল ফোন কোম্পানি যেমন- গ্রামীণ ফোন, রবি, বাংলালিংক, টেলিটক, সিটিসেল,এয়ারটেল সহ বিভিন্ন PSTN অপারেটর (র‍্যাংকসটেল, পিপলটেল, ঢাকা ফোন, ন্যাশনাল ফোন ইত্যাদি) গুলোতে টেলিকমিউনিকেশন ইঞ্জিনিয়ারদের প্রচুর চাহিদা রয়েছে। বাংলাদেশের বিভিন্ন টেলিভিশন চ্যানেল ( চ্যানেল -আই, চ্যানেল-নাইন, এনটিভি, আরটিভি ইত্যাদি) গুলোতে টেলিকমিউনিকেশন ইঞ্জিনিয়ারদের প্রচুর চাহিদা রয়েছে।" />
+        <TextView
+            android:id="@+id/txt_2_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="ইন্টারনেট ছাড়া বর্তমান বিশ্ব অচল। ইন্টারনেট এর মাধ্যমে ঘরে বসেই পৃথিবীর সকল প্রান্তের সব খবর আমরা জানতে পারি। বাংলাদেশে অনেক ইন্টারনেট সার্ভিস প্রোভাইডার ( I.S.P) কোম্পানি রয়েছে। অগ্নি সিস্টেম,বাংলালায়ন, কিউবি - এর মত কোম্পানিগুলোতে টেলিকমিউনিকেশন ইঞ্জিনিয়ারদের পদচারনায় মুখর। এছাড়াও টেলিকমিউনিকেশন টেকনোলজিতে ইলেকট্রিক্যাল, ইলেকট্রনিক্স ও কম্পিউটার বিষয় সমূহ অন্তর্ভুক্ত  থাকায় এই টেকনোলজির ছাত্র-ছাত্রীরা ইলেকট্রিক্যাল, ইলেকট্রনিক্স  ও কম্পিউটার সেক্টরে তাদের চাহিদা সৃষ্টি করেছে।শুধু দেশে নয় বিদেশেও টেলিকমিউনিকেশন ইঞ্জিনিয়ারদের প্রচুর চাহিদা রয়েছে।  বিভিন্ন রেডিও কোম্পানি ও সরকারি চাকুরীতেও এই সেক্টরের চাহিদা ব্যাপকভাবে সম্প্রসারিত হচ্ছে। টেলিকমিউনিকেশনের ব্যাপক চাহিদার কারণে উচ্চ শিক্ষার জন্য বিদেশে যাওয়ার সুযোগ সৃষ্টি হচ্ছে। দেশকে দ্রুত উন্নতির শিখরে নিতে টেলিকমিউনিকেশন ইঞ্জিনিয়ারিং - এর কোন বিকল্প নেই। " />
+
+    </LinearLayout>
+</ScrollView>

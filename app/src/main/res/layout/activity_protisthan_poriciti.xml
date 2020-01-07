@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    android:background="@drawable/back1"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txtsoronio_baktitto_title"
+            android:layout_width="263dp"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:text="প্রতিষ্ঠান পরিচিতি"
+            android:textAlignment="center"
+            android:textColor="#FF0944DF"
+            android:textSize="35dp" />
+        <TextView
+            android:id="@+id/txt_First_line"
+            android:layout_width="340dp"
+            android:layout_height="2dp"
+            android:background="#008000"
+            android:layout_marginBottom="20dp"
+            android:textAlignment="center"
+            android:layout_gravity="center"/>
+
+        <ImageView
+            android:id="@+id/image1"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="17dp"
+            android:src="@drawable/logo" />
+
+        <TextView
+            android:id="@+id/txt_Firs_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:textSize="18dp"
+            android:text="দিন বদলের দীক্ষা প্রযুক্তি আর শিক্ষা” এই ব্রতকে সামনে রেখে শিক্ষার
+আলোয় আলোকিত সমাজ প্রতিষ্ঠায়  নিরলস পরি্শ্রমী, হত দরিদ্র,সুবিদা বঞ্চিত, প্রাকৃতিক দুর্যোগ কবলিত,অসহায় ও দুস্থ মানুষের সেবায় নিবেদিত প্রাণ,উদার ব্যক্তিত্ত,বিশিষ্ট ব্যবসায়ী মরহুম হাজী আবুল হোসেন সাহেবের অপূর্ণ ইচ্ছার
+বাস্তবায়ন এবং তার স্মৃতিকে স্মরণীয় করে রাখার জন্য ২০০০ সালে টাংগাইলে হাজী আবুল হোসেন ইন্সটিটিউট অব টেকনোলজি (HABHIT) প্রতিষ্ঠিত
+হয় ৷" />
+        <TextView
+            android:id="@+id/txt_Second_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="17dp"
+            android:textSize="18dp"
+            android:text="হাজী আবুল হোসেন ইন্সটিটিউট অব টেকনোলজি (HABHIT) গণপ্রজাতন্ত্রী
+বাংলাদেশ সরকারের নিয়ন্ত্রনাধীন কারিগরি শিক্ষা বোর্ড– এর অনুমোদন নিয়ে ৪ বছর মেয়াদী ডিপ্লোমা-ইন-ইঞ্জিনিয়ারিং শিক্ষাক্রমের আওতায় কম্পিউটার, ইলেক্ট্রনিক্স টেকনোলজি বিষয়ে পাঠদান শুরু করে পরবর্তীতে টেলিকমিউনিকেশন,সিভিল,টেক্সটাইল ,জি,ডি,পি,এম টেকনোলজি্র
+আনুমোদন পায় ।এই কাযক্রমের সাফলোর ধারাবাহিকতায় হাজী আবুল হোসেন ইন্সটিটিউট অব টেকনোলজি (HABHIT) এ ৪ বৎসর  মেয়াদী মেডিক্যাল
+টেকনোলোজির আওতায় ডেন্টাল প্যাথলজি এবং ২ বৎসর মেয়াদী বি এম (এইচ.এস.সি) প্রোগ্রামের আওতায় সেক্রেটারিয়াল সায়েন্স ও কম্পিউটার
+অপারেশন বিষয়গুলো পরিচালিত হচ্ছে ।অপরদিকে জাতীয় বিশববিদ্যালয় এর অনার্স কার্যক্রমের আওতায় BBA ও CSE  শিক্ষাক্রম পরিচালিত হচ্ছে । " />
+
+        <TextView
+            android:id="@+id/txt_Third_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="17dp"
+            android:textSize="18dp"
+            android:text="জাতীয় বিশ্ববিদ্যালয় ও বাংলাদেশ কারিগরি শিক্ষা বোর্ডের নিয়ন্ত্রণে সারা দেশে
+জাতীয় বিশ্ববিদ্যালয় ও সকল পলিটেকনিকের সাথে নির্ধারিত সময়সূচী  ও প্রশ্নপত্র অনুযায়ী কোর্সে সমূহের পরীক্ষা অনুষ্ঠিত হয় এবং জাতীয় বিশ্ববিদ্যালয় ও
+ বাংলাদেশ কারিগরি শিক্ষা বোর্ড কতৃক চূড়ান্ত ফলাফল প্রকাশিত হয় ।প্রতি বছর জাতীয় বিশ্ববিদ্যালয় ও বাংলাদেশ কারিগরি শিক্ষা বোর্ডের অধীনে পরিচালিত
+কোর্স/টেকনোলজি সমূহের চূড়ান্ত পরীক্ষায় ছাত্র/ছাত্রীরা কৃতিত্বপূর্ণ  ফলাফল অর্জন করে থাকে । বর্তমানে প্রায় ৪০০০ ছাত্র/ছাত্রী এখানে অধ্যয়নরত আছে ।"/>
+        <TextView
+            android:id="@+id/txt_Secon_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="17dp"
+            android:textSize="18dp"
+            android:text="টাংগাইল শহরে প্রাণকেন্দ্র, মসজিদ রোডে নিজস্ব ১০ তলা ভবনে ইন্সটিটিউটের
+অবস্থান । অত্র ইন্সটিটিউট বর্তমানে অত্যাধুনিক যন্ত্রপাতি, গবেষনাগার ও
+শিক্ষাদানের জন্য উন্নত প্রযুক্তি এবং স্বয়ং সম্পূর্ণ গ্রন্থাগার রয়েছে ।"/>
+
+    </LinearLayout>
+</ScrollView>

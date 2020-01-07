@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HABHIT3</string>
+    <string name="title_activity_jononata_main">JononataMainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_constraction">constractionActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="haji_abul_hossain_institute_of_technology">Haji Abul Hossain Institute of Technology</string>
+    <string name="www_habhit_edu_bd">www.habhit.edu.bd</string>
+    <string name="todo">TODO</string>
+</resources>

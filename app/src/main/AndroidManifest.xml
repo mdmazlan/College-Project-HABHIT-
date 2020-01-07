@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.www.habhit.edu.bd">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="HABHIT"
+        android:roundIcon="@mipmap/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/Theme.Design.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".HabhitMainActivity"
+            android:label="HABHIT"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".SoronioBaktittoActivity" />
+        <activity android:name=".ProtisthanPoricitiActivity" />
+        <activity android:name=".HabhitCourseSomuhoActivity" />
+        <activity android:name=".TechnologySomuhActivity" />
+        <activity android:name=".DressCodeActivity" />
+        <activity android:name=".HabhiterBishesottoActivity" />
+        <activity android:name=".CivilTecActivity" />
+        <activity android:name=".ElectricalTecActivity" />
+        <activity android:name=".ElectrinicsTecActivity" />
+        <activity android:name=".CmtTecActivity" />
+        <activity android:name=".TelicomTecActivity" />
+        <activity android:name=".TextileTecActivity" />
+        <activity android:name=".GermentsTecActivity" />
+        <activity android:name=".PathlogyTecActivity" />
+        <activity android:name=".DentalTecActivity" />
+        <activity android:name=".AmaderUddessoActivity" />
+        <activity android:name=".DiplomaUdesshoActivity" />
+        <activity android:name=".CourseSomuhMainActivity" />
+        <activity android:name=".ShikkhartiderKoronioActivity" />
+        <activity
+            android:name=".AboutUsActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity android:name=".OnnanoProtisthanSomuhActivity" />
+        <activity android:name=".BMCourseActivity" />
+        <activity android:name=".SohopathkromicKarjokromActivity" />
+        <activity android:name=".GallaryMenuActivity" />
+        <activity android:name=".constructionActivity" />
+        <activity android:name=".maps"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        </activity>
+    </application>
+
+</manifest>

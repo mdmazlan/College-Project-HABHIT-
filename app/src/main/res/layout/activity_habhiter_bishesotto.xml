@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    android:background="@drawable/back1"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="8dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="32dp"
+            android:textStyle="bold"
+            android:textColor="#0039D1"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginBottom="1dp"
+            android:text="HABHIT-এর বিশেষত্ব" />
+        <TextView
+            android:layout_width="340dp"
+            android:layout_height="2dp"
+            android:background="#008000"
+            android:layout_marginBottom="20dp"
+            android:textAlignment="center"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="১)  কারিগরি  শিক্ষায় দীর্ঘ ১৪ বছরের অভিজ্ঞতা সম্পন্ন কতৃপক্ষ কতৃক পরিচালিত।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="২) পরিচালনা পর্ষদ কতৃক নিয়মিত শিক্ষা কার্যক্রম মনিটরিং এর ব্যবস্থা।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="৩)  মেধাবী, উচ্চতর ডিগ্রীধারী ও কারিগরি শিক্ষায় বিশেষ প্রশিক্ষণ প্রাপ্ত শিক্ষক মণ্ডলী।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="৪)  ইন্টারনেট সংযুক্ত কম্পিউটার ল্যাব এবং প্রতিটি টেকনোলজির জন্য আধুনিক যন্ত্রপাতি সমৃদ্ধ পৃথক ল্যাব বিদ্যমান।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="৫)  দৈনিক, সাপ্তাহিক, মাসিক পরীক্ষার মাধ্যমে বিশেষ মূল্যায়ন এর ব্যবস্থা।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="৬)  ধুমপান ও রাজনীতি চর্চা মুক্ত পরিবেশে ছাত্র/ছাত্রীদের সুশিক্ষা নিশ্চিত করা।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="৭)  দরিদ্র ও মেধাবী ছাত্র/ছাত্রীদের বৃত্তি প্রদান।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="৮) সহ-শিক্ষা কার্যক্রমের আওতায় পরিবেশবাদী ক্লাব,ল্যাংগুয়েজ ক্লাব, সাংস্কৃতিক সংগঠন, বিতর্ক প্রতিযোগিতাসহ নানাবিধ গঠনমূলক কার্যক্রম।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="৯)  ছাত্র/ছাত্রীদের দৈহিক ও মানসিক সুস্বাস্থ্যের জন্য চিকিৎসকের ব্যবস্থা।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="১০)  পূর্ণ নিরাপত্তায় ছাত্র/ছাত্রীদের জন্য পৃথক আবাসিক ব্যবস্থা।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="১১) অভিভাবক দিবসের মাধ্যমে ছাত্র/ছাত্রীদের শিক্ষার মান উন্নয়নে অভিভাবকদের মতামত গুরুত্বসহকারে মূল্যায়ন।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="১২)  পরীক্ষার ফলাফলের ভিত্তিতে ছাত্র/ছাত্রীদের বিষয় ভিত্তিক দূর্বলতা দূরীকরণের লক্ষ্যে ব্যবস্থা গ্রহণ।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="১৩) প্রতি ক্লাসে নির্ধারিত সংখ্যক শিক্ষার্থীর জন্য গ্রুপটিচার, ক্লাশটিচার সহ বিভাগীয় প্রধানের দায়িত্বে পরিচালিত।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="১৪)  লেখাপড়ার পাশাপাশি সুনাগরিকের বৈশিষ্ট্য অর্জনের লক্ষ্যে নৈতিকতা শিক্ষাদান।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="15dp"
+            android:text="১৫)  শিক্ষা, শৃংখলা, চরিত্র গঠন, মেধা বিকাশ-সর্বক্ষেত্রে সর্বোত্তম মানই আমাদের লক্ষ।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:background="#ed8c8e"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="আর্থ সামাজিক অবস্থা ও মেধার ভিত্তিতে অত্র প্রতিষ্ঠানের ৫০% শিক্ষার্থীদের সরকারি শিক্ষা বৃত্তি (Step) প্রদান করা হয়।
+এছাড়াও হাজী আবুল হোসেন মেমোরিয়াল ট্রাস্ট কতৃক বৃত্তির ব্যবস্থা রয়েছে।" />
+
+
+    </LinearLayout>
+</ScrollView>

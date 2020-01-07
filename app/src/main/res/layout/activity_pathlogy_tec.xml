@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    android:background="@drawable/back1"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        android:orientation="vertical">
+        <ImageView
+            android:id="@+id/image1"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="2dp"
+            android:src="@drawable/pathlogy" />
+
+        <TextView
+            android:id="@+id/txtsoronio_baktitto_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="32dp"
+            android:textStyle="bold"
+            android:textColor="#0039D1"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginBottom="1dp"
+            android:text="মেডিকেল টেকনোলজি (প্যাথলজি)" />
+        <TextView
+            android:id="@+id/txt_1_line"
+            android:layout_width="340dp"
+            android:layout_height="2dp"
+            android:background="#008000"
+            android:layout_marginBottom="20dp"
+            android:textAlignment="center"
+            android:layout_gravity="center"/>
+        <TextView
+            android:id="@+id/txt_2_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="3dp"
+            android:layout_marginBottom="20dp"
+            android:textSize="18dp"
+            android:text="চিকিৎসা মানুষের একটি মৌলিক অধিকার। প্রায় আড়াই হাজার বছর পূর্বে চিকিৎসা বিজ্ঞানের জনক হিপোক্রেটস এর যুগ হতে চিকিৎসা বিজ্ঞানের যাত্রা শুরু হলেও,আমাদের দেশে চিকিৎসা বিজ্ঞানের ক্ষেত্রে উল্লেখযোগ্য তেমন কোন অগ্রগতি হয়নি।বাংলাদেশে চিকিৎসক এবং দক্ষ মেডিকেল টেকনোলজিস্টের সংখ্যা জনসংখ্যার তুলনায় নিতান্তই অপ্রতুল। যার ফলে সঠিকভাবে রোগ নির্ণয়ের মাধ্যমে সুচিকিৎসা নিশ্চিত করা প্রায়ই অসম্ভব। পরিসংখ্যানে দেখা যায় যে, সুচিকিৎসার জন্য একজন চিকিৎসকের সহযোগী হিসেবে ৭ জন মেডিকেল টেকনোলজিস্ট প্রয়োজন । আমাদের দেশে প্রায় ৪২০০০ রেজিস্টার চিকিৎসক রয়েছেন। সে হিসেবে টেকনোলজিস্টের প্রয়োজন প্রায় ৪২০০০X৭=২৯৪০০০ জন।  বর্তমানে আমাদের দেশে প্রায় ১৫০০০ জন টেকনোলজিস্ট আছেন । এ পরিসংখ্যান অনুযায়ী আমাদের দেশে দক্ষ  মেডিকেল টেকনোলজিস্টের প্রচুর চাহিদা রয়েছে। অন্যদিকে আমাদের দেশের চাহিদা পুরণের পরও মেডিকেল টেকনোলোজিতে দক্ষ জনশক্তি বিদেশে রপ্তানি করে প্রচুর বৈদেশিক মুদ্রা অর্জন করা সম্ভব। দেশে ও বিদেশে দক্ষ মেডিকেল টেকনোলজিস্টের চাহিদা পূরণের লক্ষ্যে বাংলাদেশে কারিগরি শিক্ষাবোর্ড স্বাস্থ্য প্রযুক্তি ও সেবা শিক্ষাক্রমের অধীনে ০৭ টি টেকনোলজি পরিচালনার জন্য বিভিন্ন ইন্সটিটিউটকে স্বীকৃতি প্রদান করেন।" />
+        <TextView
+            android:id="@+id/txt_3_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="18dp"
+            android:text="কর্মক্ষেত্র:" />
+        <TextView
+            android:id="@+id/txt_4_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="16dp"
+            android:text="১. বিভিন্ন মেডিকেল বিশ্ববিদ্যালয়, মেডিক্যাল কলেজ ও হাসপাতাল।" />
+        <TextView
+            android:id="@+id/txt_5_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="16dp"
+            android:text="২. সদর হাসপাতাল, উপজেলা স্বাস্থ্য কমপ্লেক্স, মা ও শিশু কল্যাণ কেন্দ্র।" />
+        <TextView
+            android:id="@+id/txt_6_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="16dp"
+            android:text="৩. বিভিন্ন NGO  ও গবেষণা প্রতিষ্ঠান। যেমন- ICDDRB, BRAC ইত্যাদি।" />
+        <TextView
+            android:id="@+id/txt_7_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="15dp"
+            android:text="৪. মেডিক্যাল টেকনোলোজি কলেজ, ডায়াগনস্টিক সেন্টার ও বিভিন্ন ক্লিনিক।" />
+        <TextView
+            android:id="@+id/txt_8_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="16dp"
+            android:text="৫. এছাড়াও বিদেশে দক্ষ টেকনোলজিস্টদের প্রচুর চাহিদা রয়েছে।" />
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    android:background="@drawable/back1"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="2dp"
+            android:src="@drawable/cmtlab" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="32dp"
+            android:textStyle="bold"
+            android:textColor="#0039D1"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginBottom="1dp"
+            android:text="কম্পিউটার টেকনোলজি" />
+        <TextView
+            android:layout_width="340dp"
+            android:layout_height="2dp"
+            android:background="#008000"
+            android:layout_marginBottom="20dp"
+            android:textAlignment="center"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:lineSpacingExtra="3dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="18dp"
+            android:text="আধুনিক যুগ তথ্য প্রযুক্তির যুগ। তথ্য প্রযুক্তির ছোঁয়ায় পালটে গেছে মানুষের দৈনন্দিন, সামাজিক,অর্থনৈতিক লাইফ স্টাইল। প্রযুক্তির বিপ্লবের এই সুবর্ণ সময়ে সারা বিশ্বে এসেছে নতুন নতুন চাহিদা সম্পন্ন আধুনিক পেশা। তথ্য প্রযুক্তির এ যুগে মানুষের বিভিন্ন কার্যবিবরনী কম্পিউটার ব্যবহারের সাহায্যে সমাধান করা সম্ভব। এ জন্যই কম্পিউটারের ব্যবহার বেড়েই চলেছে। এই প্রয়োজনীয়তার উপর ভিত্তি করে কম্পিউটার প্রয়োগ ভিত্তিক বিভিন্ন পেশার সৃষ্টি হয়েছে। এ সব পেশার বাজার সারা পৃথিবীতেই উম্মুক্ত। চাহিদাও বাড়ছে ক্রমশঃ তাই আধুনিক পেশাদারিত্বের সুযোগ আছে এই প্রযুক্তি ভিত্তিক পড়াশুনায় ।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:textSize="18dp"
+            android:text="কম্পিউটার ইঞ্জিনিয়ারিং ভিত্তিক ক্যারিয়ারঃ" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:lineSpacingExtra="3dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="18dp"
+            android:text="কম্পিউটার ইঞ্জিনিয়ার, কম্পিউটার সিস্টেম ডিজাইনার, ক্যাড টেকনিশিয়ান, রোবটিক্স ইঞ্জিনিয়ার ইত্যাদি।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="ওয়েব ভিত্তিক ক্যারিয়ারঃ" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:lineSpacingExtra="3dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="7dp"
+            android:textSize="18dp"
+            android:text="ওয়েব ডিজাইনার,ওয়েব মাস্টার, ওয়েব প্রোগ্রামার, ওয়েব ডেভোলপার, ওয়েব ইঞ্জিনিয়ার, ওয়েব কনটেন্ট ডেভোলপার, ওয়েব টেকনোলজিস্ট ইত্যাদি।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:layout_marginBottom="10dp"
+            android:textSize="18dp"
+            android:text="সফটওয়্যার ভিত্তিক ক্যারিয়ারঃ" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:lineSpacingExtra="3dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="7dp"
+            android:textSize="18dp"
+            android:text=" সফটওয়্যার ইঞ্জিনিয়ার, প্রোগ্রামার, সফটওয়্যার ডেভোলপার, সিস্টেম এনালিস্ট, প্রজেক্ট ম্যানেজার, সফটওয়্যার আর্কিটেক্ট ইত্যাদি।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="মাল্টিমিডিয়া ভিত্তিক ক্যারিয়ারঃ " />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:lineSpacingExtra="3dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="18dp"
+            android:text="গ্রাফিক্স ডিজাইনার, এনিমেটর, স্পেশাল ইফেক্ট প্রোগ্রামার, মাল্টিমিডিয়া প্রোগ্রামার/ইঞ্জিনিয়ারিং ইত্যাদি।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:textSize="18dp"
+            android:text="হার্ডওয়্যার ভিত্তিক ক্যারিয়ারঃ " />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:lineSpacingExtra="3dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="18dp"
+            android:text="কাস্টমার সাপোর্ট ম্যানেজার, কাস্টমার সাপোর্ট এক্সিকিউটিভ ইত্যাদি।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:textSize="18dp"
+            android:text="নেটওয়ার্ক ভিত্তিক ক্যারিয়ারঃ " />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:lineSpacingExtra="3dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="18dp"
+            android:text="নেটওয়ার্ক এডমিনিস্ট্রেটর, নেটওয়ার্ক ইঞ্জিনিয়ার, টেলিকমিউনিকেশন ইঞ্জিনিয়ার ইত্যাদি।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:lineSpacingExtra="3dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="18dp"
+            android:text="এছাড়া আরও বিভিন্ন পেশা তথ্য ও প্রযুক্তি নির্ভর ক্যারিয়ার গঠনে ব্যাপক ভূমিকা রয়েছে।  সে গুলো হচ্ছেঃ মেডিক্যাল ট্রান্সক্রিপশনিষ্ট, ডাটাবেস এডমিনিস্ট্রেটর কম্পিউটার অপারেটর, ডাটা এন্ট্রি অপারেটর, কম্পিউটার সিকিউরিটি স্পেশালিষ্ট, হিউম্যান রিসোর্স কর্মকর্তা, আই.টি. ম্যানেজার ইত্যাদি।" />
+
+
+    </LinearLayout>
+</ScrollView>

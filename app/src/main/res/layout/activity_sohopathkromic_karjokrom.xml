@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    android:background="@drawable/back1"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="8dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txtsoronio_baktitto_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="32dp"
+            android:textStyle="bold"
+            android:textColor="#0039D1"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginBottom="1dp"
+            android:text="সহ-পাঠক্রমিক কার্যক্রম" />
+        <TextView
+            android:id="@+id/txt_1_line"
+            android:layout_width="340dp"
+            android:layout_height="2dp"
+            android:background="#008000"
+            android:layout_marginBottom="20dp"
+            android:textAlignment="center"
+            android:layout_gravity="center"/>
+        <TextView
+            android:id="@+id/txt_2_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="15dp"
+            android:text="* জাতীয় দিবসগুলো শিক্ষার্থীদের অংশগ্রহণে যথাযথ মর্যাদা পালন করে।" />
+        <TextView
+            android:id="@+id/txt_3_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="15dp"
+            android:text="* Youth Festival ও বার্ষিক বনভোজন।" />
+        <TextView
+            android:id="@+id/txt_4_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="15dp"
+            android:text="* জাতীয় পর্যায়ের বিভিন্ন প্রতিযোগিতায় অংশগ্রহণ।" />
+        <TextView
+            android:id="@+id/txt_5_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="15dp"
+            android:text="* বৃক্ষরোপণ কার্যক্রম পরিচালনা।" />
+        <TextView
+            android:id="@+id/txt_6_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="15dp"
+            android:text="* বার্ষিক ক্রীড়া প্রতিযোগিতা।" />
+        <TextView
+            android:id="@+id/txt_7_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="15dp"
+            android:text="* সাহিত্য চর্চা।" />
+        <TextView
+            android:id="@+id/txt_8_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="15dp"
+            android:text="* সাংস্কৃতিক অনুষ্ঠান।" />
+        <TextView
+            android:id="@+id/txt_9_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="15dp"
+            android:text="* সমাজ সচেতনতামূলক কর্মসূচী।" />
+        <TextView
+            android:id="@+id/txt_10_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="15dp"
+            android:text="* আড়ম্বরপূর্ণ অনুষ্ঠানের মাধ্যমে পহেলা বৈশাখ উদযাপন করা।" />
+        <TextView
+            android:id="@+id/txt_11_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="15dp"
+            android:text="* বিজ্ঞান মেলার আয়োজন করা।" />
+        <TextView
+            android:id="@+id/txt_12_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="15dp"
+            android:text="* বার্ষিক ধর্মীয় অনুষ্ঠানগুলো পালন করা।" />
+
+    </LinearLayout>
+</ScrollView>

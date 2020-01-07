@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    android:background="@drawable/back1"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        android:orientation="vertical">
+        <ImageView
+            android:id="@+id/image1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginBottom="1dp"
+            android:src="@drawable/textilelab_2" />
+
+        <TextView
+            android:id="@+id/txtsoronio_baktitto_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="32dp"
+            android:textStyle="bold"
+            android:textColor="#0039D1"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginBottom="15dp"
+            android:text="টেক্সটাইল টেকনোলজি" />
+        <TextView
+            android:id="@+id/txt_First_line"
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="এই সভ্য সমাজে মানুষের জন্ম থেকে মৃত্যু পর্যন্ত যে জিনিসটির সবচেয়ে বেশি প্রয়োজন তা হল বস্ত্র ( Textile)।যদিও মানুষের মৌলিক চাহিদার মধ্যে টেক্সটাইলের অবস্থান দ্বিতীয় অর্থাৎ Textile Stands Second to Food।
+যদি খাদ্য ছাড়া দু'চারদিন টিকে থাকা যায় তথাপি আধুনিক সভ্য সমাজে বস্ত্র ছাড়া এক মুহুর্তও কল্পনা করা যায় না।আমাদের দেশের অর্থনৈতিক প্রবৃদ্ধির প্রধান চালিকা শক্তি হচ্ছে টেক্সটাইল শিল্প। আর দিন দিন এই শিল্পের প্রসার ঘটছে। ফলে ডিপ্লোমা ইঞ্জিনিয়ারদের চাহিদা উত্তরোত্তর বৃদ্ধি পাচ্ছে। ডিপ্লোমা-ইন-টেক্সটাইল ইঞ্জিনিয়ারদের মর্যাদার ক্ষেত্রও দিন দিন বৃদ্ধি পাচ্ছে। তাছাড়া উচ্চ শিক্ষার ক্ষেত্রে ঢাকা বিশ্ববিদ্যালয় কর্তৃক পরিচালিত BTEC ও DUET - এ পড়ার সুযোগ রয়েছে।" />
+
+    </LinearLayout>
+</ScrollView>

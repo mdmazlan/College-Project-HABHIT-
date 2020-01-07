@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    android:background="@drawable/back1"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginBottom="2dp"
+            android:src="@drawable/civillab" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="35dp"
+            android:textStyle="bold"
+            android:textColor="#0039D1"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginBottom="1dp"
+            android:text="সিভিল টেকনোলজি" />
+        <TextView
+            android:layout_width="320dp"
+            android:layout_height="2dp"
+            android:background="#008000"
+            android:layout_marginBottom="20dp"
+            android:textAlignment="center"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="7dp"
+            android:textSize="18dp"
+            android:text="কারিগরি শিক্ষার ক্ষেত্রে ডিপ্লোমা ইন সিভিল ইঞ্জিনিয়ারিং এর গুরুত্ব :" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:lineSpacingExtra="3dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="18dp"
+            android:textSize="18dp"
+            android:text="কোন দেশের সার্বিক উন্নয়নের মূলে রয়েছে কারিগরি শিক্ষায় দক্ষ জনশক্তি।সভ্য ও সমৃদ্ধ জাতি গঠনে এ শিক্ষার বিকল্প নেই। যে জাতি কারিগরি শিক্ষায় যত বেশি দক্ষ সে জাতি তত বেশি উন্নত। আর এই কারিগরি শিক্ষা ব্যাবস্থায় ডিপ্লোমা ইন ইঞ্জিনিয়ারিং এর গুরুত্ব অপরিসীম। আদিম যুগ হতে আধুনিক যুগে মানুষের ধাপে ধাপে প্রত্যাবর্তনের মূলে রয়েছে সিভিল ইঞ্জিনিয়ারিং।  বাংলাদেশের মত একটি উন্নয়নশীল দেশে এ শিক্ষায় শিক্ষিত জনশক্তির প্রয়োজনীয়তা অপরিসীম। ৪ বছর মেয়াদি ডিপ্লোমা ইন সিভিল ইঞ্জিনিয়ারিং কোর্স সম্পন্ন করেই একজন ব্যাক্তি স্বাবলম্বী হতে পারে। বাংলাদেশ সহ বিশ্বের সকল দেশেই রয়েছে এর প্রচুর চাহিদা। বাংলাদেশের সরকারী, বেসরকারী সকল প্রতিষ্ঠানেই রয়েছে সম্মানজনক চাকুরীর সুযোগ। বাংলাদেশের মোট চাকুরির সিংহভাগভাগ কোটা পুরন করে  ডিপ্লোমা ইন সিভিল ইঞ্জিনিয়ারিং। তাছাড়া এ কোর্স সম্পন্নকৃত একজন ব্যাক্তি নিজের কর্মসংস্থানের পাশাপাশি অন্যের কর্মসংস্থানের ব্যাবস্থা করতে পারে।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="এ টেকনোলজির চাকুরীর ক্ষেত্রসমূহ হলো নিম্নরূপ :" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:lineSpacingExtra="3dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="দেশের সরকারী চাকুরীর ক্ষেত্র গুলোর প্রায় সকল ক্ষেত্রেই ডিপ্লোমা ইন সিভিল ইঞ্জিনিয়ারিং এর চাকুরীর সুযোগ রয়েছে। যেমন:- পানি উন্নয়ন বোর্ড, রেলওয়ে, ওয়াসা বিদ্যুৎ উন্নয়ন বোর্ড, শিক্ষা অধিদপ্তর, বিভিন্ন পৌরসভা ও সিটি কর্পোরেশন ইত্যাদি সকল ক্ষেত্রেই রয়েছে উপ-সহকারী প্রকৌশলী হিসেবে সম্মানজনক চাকুরীর সুযোগ। দেশের বিভিন্ন বেসরকারী এন.জি.ও গুলোতে ডিপ্লোমা ইন সিভিল ইঞ্জিনিয়ারিং কাজের সুযোগ রয়েছে। দেশের বিভিন্ন ডেভোলপার কোম্পানিগুলোতে এদের প্রচুর কাজ করার সুযোগ রয়েছে। দেশের বাইরে মধ্যপ্রাচ্য ও ইউরোপ সহ বিশ্বে সকল দেশেই সিভিল ইঞ্জিনিয়ারদের ব্যাপক কর্মসংস্থানের সুযোগ রয়েছে। তাছাড়া ডিপ্লোমা ইন সিভিল ইঞ্জিনিয়ারিং কোর্স সম্পন্ন করার পর যে কেউ দেশ ও বিদেশের বিভিন্ন বিশ্ববিদ্যালয়গুলো হতে উচ্চ শিক্ষা গ্রহন করতে পারে। সর্বোপরি সিভিল ইঞ্জিনিয়ারিং পাঠ ব্যতিরেকে কোন দেশের সার্বিক উন্নয়ন মোটেও সম্ভব নয়। তাই কারিগরি শিক্ষা ব্যবস্থায় ডিপ্লোমা ইন সিভিল ইঞ্জিনিয়ারিং পাঠের কোন বিকপ্ল নেই।" />
+
+
+    </LinearLayout>
+</ScrollView>

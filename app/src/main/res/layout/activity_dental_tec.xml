@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    android:background="@drawable/back1"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginBottom="2dp"
+            android:src="@drawable/dentallab" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="32dp"
+            android:textStyle="bold"
+            android:textColor="#0039D1"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginBottom="1dp"
+            android:text="মেডিকেল টেকনোলজি ( ডেন্টাল )" />
+        <TextView
+            android:layout_width="340dp"
+            android:layout_height="2dp"
+            android:background="#008000"
+            android:layout_marginBottom="20dp"
+            android:textAlignment="center"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="নতুন বিশ্ব চাহিদার প্রেক্ষাপটে দেশে বিদেশে স্বাস্থ্য প্রযুক্তি ও সেবার ক্ষেত্রে এক উজ্জ্বল ও সম্ভাবনাময় ভবিষ্যৎ গড়ার লক্ষ্যে 'ডিপ্লোমা অব মেডিকেল/ডেন্টাল টেকনোলোজিতে' শিক্ষা গ্রহণ করার কোন বিকল্প নেই। একজন দক্ষ ও মান সম্পন্ন ডেন্টাল টেকনোলজিস্টের দেশে-বিদেশে গুরুত্ব অপরিসীম।  সরকারী ও বেসরকারী পর্যায়ে ডিপ্লোমা টেকনোলজিস্টের প্রায় দশ হাজার শূন্য পদ রয়েছে। বাংলাদেশের মত অনুন্নত দেশে সল্প সময়ের মধ্যে কর্মজীবনেনে প্রবেশ করা যায় ডিপ্লোমা ইন ডেন্টাল টেকনোলজি কোর্স সম্পন্ন করে। আর এই কোর্স বেকারত্ব দূরীকরণের উৎকৃষ্ট পন্থা। এমনকি, ডিপ্লোমা কোর্স সম্পন্ন করার দেশে অথবা বিদেশে বি.এসসি কোর্স করে উচ্চ শিক্ষায় শিক্ষিত হওয়া যায়।সর্বোপরি দাঁতের চিকিৎসার জন্য একজন দক্ষ ডেন্টাল টেকনোলজিস্টের গুরুত্ব অপরিসীম।" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="18dp"
+            android:text="কর্মক্ষেত্র সমূহ :" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="16dp"
+            android:text="১. মেডিকেল কলেজ ও হাসপাতাল এ দক্ষ টেকনোলজিস্টের প্রচুর চাহিদা রয়েছে।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="16dp"
+            android:text="২.  বিভিন্ন ডেন্টাল ক্লিনিক গুলোতে ডেন্টাল টেকনোলজিস্টের নির্দিষ্ট পদ রয়েছে।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="16dp"
+            android:text="৩. এনজিও পরিচালিত হেলথ কমপ্লেক্সগুলোতে দক্ষ ও মানসম্পন্ন ডেন্টাল  টেকনোলজিস্টের চাকুরির সুযোগ রয়েছে।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="15dp"
+            android:text="৪.বিভিন্ন শিক্ষা প্রতিষ্ঠানে কর্মসংস্থানের সুযোগ রয়েছে।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:textSize="16dp"
+            android:text="৫. এছাড়া বহির্বিশ্বের উন্নত দেশগুলোতেও প্রচুর কর্মসংস্থানের অপূর্ব সুযোগ।" />
+
+    </LinearLayout>
+</ScrollView>

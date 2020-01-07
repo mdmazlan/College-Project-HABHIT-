@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    android:background="@drawable/back1"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="8dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:textColor="#0039D1"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:layout_marginBottom="1dp"
+            android:text="ডিপ্লোমা ইঞ্জিনিয়ারিং এর প্রয়োজনীয়তা" />
+        <TextView
+            android:layout_width="340dp"
+            android:layout_height="2dp"
+            android:background="#008000"
+            android:layout_marginBottom="20dp"
+            android:textAlignment="center"
+            android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:lineSpacingExtra="3dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="আমাদের দৈনন্দিন জীবনে প্রতিটি কাজেই ডিপ্লোমা ইঞ্জিনিয়ারিংয়ের প্রয়োজনীতা রয়েছে। যেমন-" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="3dp"
+            android:textSize="15dp"
+            android:text="কৃষি :" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="3dp"
+            android:layout_marginBottom="8dp"
+            android:text="কৃষিক্ষেত্রে আধুনিক যন্ত্রপাতির ব্যাবহারের ক্ষেত্রে এবং বস্ত্র তৈরির ক্ষেত্রে (মারাইকল, ধান বপন কল, সেচ পাম্প, অটো রাইস মিল) ডিপ্লোমা ইঞ্জিনিয়ারদের প্রয়োজন অপরিহার্য।"
+            android:textColor="#000"
+            android:textSize="18dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="বস্ত্র :" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:lineSpacingExtra="3dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="বর্তমানে বাংলাদেশের পোশাক শিল্প  বৈদেশিক  মুদ্রা অর্জনের একটি বৃহত্তম খাত। এক্ষেত্রে টেক্সটাইল,  গার্মেন্টস ডিজাইনিং, কম্পিউটার, টেলিকমিউনিকেশন, ইলেক্ট্রিক্যাল, ইলেকট্রনিক্স ইত্যাদি বিষয়ে জ্ঞান অপরিহার্য।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="যোগাযোগ ও বাসস্থান :" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="3dp"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="ঘর-বাড়ি, রাস্তাঘাট, ব্রিজ, কালভার্ট ইত্যাদি নির্মাণ ও সৌন্দর্য বর্ধনের জন্য ডিপ্লোমা ইঞ্জিনিয়ারদের প্রয়োজনীয়তা রয়েছে।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:layout_marginBottom="5dp"
+            android:textSize="15dp"
+            android:text="তথ্য প্রযুক্তি ও যোগাযোগের ক্ষেত্রে :" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="3dp"
+            android:layout_marginBottom="5dp"
+            android:textSize="18dp"
+            android:text="আধুনিক কালে তথ্য প্রযুক্তি ও যোগাযোগের ক্ষেত্রে  ডিপ্লোমা ইঞ্জিনিয়ারদের প্রয়োজনীয়তা আবশ্যক।" />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:text="চিকিৎসা ক্ষেত্রে: " />
+        <TextView
+            android:layout_width="match_parent"
+            android:textColor="#000"
+            android:lineSpacingExtra="3dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:textSize="18dp"
+            android:text="রোগ নির্ণয়ে অত্যাধুনিক যন্ত্রপাতির ব্যবহার ও সুক্ষ্ম ফলাফল নির্ণয়ের ক্ষেত্রে প্রযুক্তিগত শিক্ষা অপরিহার্য।" />
+
+    </LinearLayout>
+</ScrollView>

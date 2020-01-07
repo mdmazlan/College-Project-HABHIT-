@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="3dp"
+    android:background="@drawable/back1"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="280dp"
+            android:layout_gravity="center"
+            android:layout_weight="1.34"
+            android:src="@drawable/technology" />
+
+        <TextView
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_marginBottom="5px"
+            android:text="ভর্তির যোগ্যতা"
+            android:textIsSelectable="true"
+            android:textAlignment="center"
+            android:textColor="#2c63d2"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:textSize="15dp"
+            android:textIsSelectable="true"
+            android:textColor="#0039D1"
+            android:layout_gravity="left"
+            android:layout_marginBottom="7px"
+            android:text="যে কোনো বিভাগ থেকে এস.এস.সি/সমমান পরীক্ষায় জি.পি.এ.- ২.৫০"
+            android:layout_weight="0.60" />
+    <TextView
+            android:layout_width="225dp"
+            android:layout_height="23dp"
+            android:textSize="20dp"
+            android:layout_gravity="left"
+            android:textStyle="bold"
+            android:textIsSelectable="true"
+            android:textColor="#2c63d2"
+            android:layout_marginBottom="6px"
+            android:textAlignment="center"
+            android:text="ভর্তির সময় যা প্রয়োজন" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:textSize="15dp"
+            android:textIsSelectable="true"
+            android:textColor="#0039D1"
+            android:layout_gravity="left"
+            android:layout_marginBottom="5px"
+            android:text="১)  এস.এস.সি/সমমান পরীক্ষার মূল মার্কশীট ও সত্যায়িত অনুলিপি ২ (দুই) কপি।"
+            android:layout_weight="0.60" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:textSize="15dp"
+            android:textColor="#0039D1"
+            android:textIsSelectable="true"
+            android:layout_gravity="left"
+            android:layout_marginBottom="13px"
+            android:text="২) প্রশংসা পত্রের মূলকপি ও সত্যায়িত অনুলিপি ২ (দুই) কপি ।"
+            android:layout_weight="0.60" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:textSize="15dp"
+            android:textColor="#0039D1"
+            android:textIsSelectable="true"
+            android:layout_gravity="left"
+            android:layout_marginBottom="13px"
+            android:text="৩) ৪(চার) কপি পাসপোর্ট ও ২ (দুই) কপি স্ট্যাম্প সাইজের ছবি ।"
+            android:layout_weight="0.60" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:textSize="17dp"
+            android:textColor="#ff0004"
+            android:layout_gravity="left"
+            android:textIsSelectable="true"
+            android:layout_marginBottom="13px"
+            android:text="মোবাঃ ০১৭৩৩-৭২৭২৭৭, ০১৭৫৩-৫৩৮৮৮৮"
+            android:layout_weight="0.60" />
+
+    </LinearLayout>
+
+</ScrollView>
